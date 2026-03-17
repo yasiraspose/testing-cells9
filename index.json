@@ -1,0 +1,13 @@
+{
+  "product": "Aspose.Cells",
+  "agent": "Aspose.Cells Product Agent",
+  "language": "csharp",
+  "framework": ".NET",
+  "examples": [
+    {
+      "category": "conversion",
+      "file": "transform-a-workbook-in-xlsx-format-into-an-xml-file-using-the-librarys-conversi.cs",
+      "title": "Transform a workbook in XLSX format into an XML file using the library\u2019s conversion capabilities."
+    }
+  ]
+}
