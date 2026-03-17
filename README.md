@@ -6,8 +6,6 @@ These examples are produced by the **Aspose.Cells Product Agent** as part of the
 
 Only examples that **successfully build and run** are published.
 
----
-
 ## Architecture
 
 The generation system consists of multiple agents:
@@ -17,8 +15,6 @@ The generation system consists of multiple agents:
 | Task Browser Agent | 7001 | Provides categories and tasks |
 | Examples Super Agent | 7050 | Generates code examples |
 | Aspose.Cells Product Agent | Local | Builds, tests and publishes examples |
-
----
 
 ## Example Generation Pipeline
 
@@ -34,8 +30,6 @@ The Aspose.Cells Product Agent performs the following steps:
 8. Publish validated examples to GitHub
 
 Only **build-successful examples** are published.
-
----
 
 ## Repository Structure
 
@@ -61,8 +55,6 @@ Each category folder contains:
 - C# example files
 - `agents.md` describing examples and usage patterns
 
----
-
 ## Build and Run
 
 Each example is a simple **.NET console program**.
@@ -74,8 +66,6 @@ dotnet build
 Run:
 
 dotnet run
-
----
 
 ## Example File Naming Convention
 
@@ -89,8 +79,6 @@ create-a-workbook.cs
 convert-xlsx-to-pdf.cs  
 insert-column-chart.cs  
 
----
-
 ## Generated Files
 
 This repository automatically generates the following files:
@@ -102,7 +90,6 @@ This repository automatically generates the following files:
 | index.json | Machine-readable index of examples |
 | category/agents.md | Category-specific guidance |
 
----
 
 ## Contribution Workflow
 
@@ -113,7 +100,5 @@ The agent:
 1. Pushes examples to a category branch
 2. Creates a pull request
 3. Maintainers review and merge the PR
-
----
 
 Part of the **Professionalize Agent Network**.

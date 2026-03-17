@@ -3,7 +3,6 @@ language: csharp
 framework: dotnet8
 product: Aspose.Cells
 package: Aspose.Cells
----
 
 # Aspose.Cells Product Agent Instructions
 
@@ -11,7 +10,6 @@ This repository contains **AI-generated code examples** for **Aspose.Cells for .
 
 These instructions guide AI coding agents when generating or modifying examples.
 
----
 
 # Persona
 
@@ -24,8 +22,6 @@ Examples must:
 - Compile using **.NET 8**
 - Use **Aspose.Cells APIs correctly**
 - Demonstrate **one focused feature**
-
----
 
 # Boundaries
 
@@ -46,7 +42,6 @@ Always include required namespaces:
 
 using Aspose.Cells;
 
----
 
 ## Never
 
@@ -59,7 +54,6 @@ Do not generate:
 
 Examples must remain **simple console applications**.
 
----
 
 # Workbook Object Model
 
@@ -75,8 +69,6 @@ Workbook workbook = new Workbook();
 Worksheet worksheet = workbook.Worksheets[0];
 Cells cells = worksheet.Cells;
 
----
-
 # Writing Cell Values
 
 Correct usage:
@@ -86,8 +78,6 @@ worksheet.Cells["A1"].PutValue("Aspose.Cells");
 Incorrect usage:
 
 worksheet.Cells["A1"] = "Hello";
-
----
 
 # Saving Workbooks
 
@@ -103,7 +93,6 @@ Supported formats include:
 - HTML
 - PDF
 
----
 
 # Build and Run
 
@@ -115,8 +104,6 @@ Run:
 
 dotnet run
 
----
-
 # Testing Guide
 
 Each example must:
@@ -125,7 +112,6 @@ Each example must:
 2. Execute without runtime errors
 3. Produce expected output files if applicable
 
----
 
 # Repository Organization
 
