@@ -57,9 +57,4 @@ Examples may generate:
 - Images
 
 Output files are written to the working directory.
-- transform-an-xlsx-workbook-into-a-pdf-document-preserving-formatting-layout-and-.cs
-- transform-an-xlsx-workbook-into-an-xps-document-preserving-data-fidelity-and-lay.cs
-- transform-an-xlsx-workbook-into-ods-sxc-and-fods-formats-while-preserving-data-i.cs
-- transform-an-xlsx-workbook-into-an-mhtml-file-while-preserving-all-data-and-form.cs
-- transform-an-xlsx-workbook-into-an-html-document-preserving-cell-formatting-and-.cs
 - transform-a-workbook-in-xlsx-format-into-an-xml-file-using-the-librarys-conversi.cs
