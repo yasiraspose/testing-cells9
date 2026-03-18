@@ -58,3 +58,4 @@ Output files are written to the working directory.
 - localize-spreadsheet-by-exploring-possible-usage-scenarios-for-formulalocal-loca.cs
 - localize-spreadsheet-by-running-sample-code-for-cellformulalocal-implementation-.cs
 - localize-spreadsheet-by-reviewing-console-output-of-cellformulalocal-implementat.cs
+- localize-spreadsheet-by-implementing-error-and-boolean-value-localization-for-ru.cs
