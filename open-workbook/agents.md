@@ -55,3 +55,4 @@ Examples may generate:
 
 Output files are written to the working directory.
 - open-workbook-for-writing-a-large-excel-file-example-using-lightcells-api.cs
+- open-workbook-with-memory-optimization-for-large-datasets.cs
