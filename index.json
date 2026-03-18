@@ -5,9 +5,44 @@
   "framework": ".NET",
   "examples": [
     {
+      "category": "comments-and-notes",
+      "file": "remove-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs",
+      "title": "Remove Threaded Comments in a workbook loaded in XLSX format."
+    },
+    {
+      "category": "comments-and-notes",
+      "file": "remove-threaded-comments-with-excel-in-a-workbook-loaded-in-xlsx-format.cs",
+      "title": "Remove Threaded Comments with Excel in a workbook loaded in XLSX format."
+    },
+    {
       "category": "conversion",
       "file": "transform-a-workbook-in-xlsx-format-into-an-xml-file-using-the-librarys-conversi.cs",
       "title": "Transform a workbook in XLSX format into an XML file using the library\u2019s conversion capabilities."
+    },
+    {
+      "category": "conversion",
+      "file": "transform-an-xlsx-workbook-into-a-pdf-document-preserving-formatting-layout-and-.cs",
+      "title": "Transform an XLSX workbook into a PDF document, preserving formatting, layout, and pagination for accurate rendering."
+    },
+    {
+      "category": "conversion",
+      "file": "transform-an-xlsx-workbook-into-an-html-document-preserving-cell-formatting-and-.cs",
+      "title": "Transform an XLSX workbook into an HTML document, preserving cell formatting and content accurately."
+    },
+    {
+      "category": "conversion",
+      "file": "transform-an-xlsx-workbook-into-an-mhtml-file-while-preserving-all-data-and-form.cs",
+      "title": "Transform an XLSX workbook into an MHTML file while preserving all data and formatting."
+    },
+    {
+      "category": "conversion",
+      "file": "transform-an-xlsx-workbook-into-an-xps-document-preserving-data-fidelity-and-lay.cs",
+      "title": "Transform an XLSX workbook into an XPS document, preserving data fidelity and layout during conversion."
+    },
+    {
+      "category": "conversion",
+      "file": "transform-an-xlsx-workbook-into-ods-sxc-and-fods-formats-while-preserving-data-i.cs",
+      "title": "Transform an XLSX workbook into ODS, SXC, and FODS formats while preserving data integrity and layout."
     }
   ]
 }
