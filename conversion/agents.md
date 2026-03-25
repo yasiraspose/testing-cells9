@@ -57,3 +57,4 @@ Output files are written to the working directory.
 - convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs
 - convert-an-excel-workbook-to-xps-using-xlsx-as-the-input-and-xps-as-the-output.cs
 - transform-an-xlsx-workbook-into-a-pdf-document-preserving-formatting-layout-and-.cs
+- transform-an-xlsx-workbook-into-an-xps-document-preserving-data-fidelity-and-lay.cs
