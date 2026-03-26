@@ -55,3 +55,4 @@ Examples may generate:
 
 Output files are written to the working directory.
 - remove-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs
+- remove-threaded-comments-with-excel-in-a-workbook-loaded-in-xlsx-format.cs
