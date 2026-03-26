@@ -69,3 +69,4 @@ Output files are written to the working directory.
 - transform-an-xlsx-workbook-into-csv-tsv-and-txt-files-generating-each-output-for.cs
 - transform-an-xlsx-workbook-into-a-csv-file-removing-any-leading-empty-rows-and-c.cs
 - convert-an-xlsx-workbook-to-csv-format-preserving-delimiter-placeholders-for-emp.cs
+- convert-an-xlsx-workbook-to-a-tiff-image-file-preserving-visual-fidelity-and-lay.cs
