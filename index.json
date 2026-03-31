@@ -2,10 +2,10 @@
   "product": "Aspose.Cells",
   "platform": "net",
   "framework": "net8.0",
-  "package_version": "production-generated",
-  "total_examples": 1422,
+  "package_version": "fixed",
+  "total_examples": 1419,
   "total_categories": 25,
-  "last_updated": "2026-03-29",
+  "last_updated": "2026-03-31",
   "categories": [
     {
       "name": "cells-data",
@@ -45,7 +45,7 @@
         },
         {
           "file": "convert-textformatted-numeric-cells-to-true-numeric-values-in-an-excel-worksheet.cs",
-          "title": "Convert text\u2011formatted numeric cells to true numeric values in an Excel worksheet and save the result as an XLSX file."
+          "title": "Convert text\\u2011formatted numeric cells to true numeric values in an Excel worksheet and save the result as an XLSX file."
         },
         {
           "file": "create-and-manipulate-excel-workbooks-programmatically-storing-all-data-in-the-x.cs",
@@ -61,7 +61,7 @@
         },
         {
           "file": "determine-whether-a-cells-data-validation-in-an-xlsx-workbook-is-configured-as-a.cs",
-          "title": "Determine whether a cell's data validation in an XLSX workbook is configured as a drop\u2011down list."
+          "title": "Determine whether a cell's data validation in an XLSX workbook is configured as a drop\\u2011down list."
         },
         {
           "file": "emit-spreadsheet-data-to-the-console-using-xlsx-format-ensuring-compatibility-wi.cs",
@@ -113,7 +113,7 @@
         },
         {
           "file": "implement-an-enumerator-that-iterates-through-columns-of-an-xlsx-worksheet-expos.cs",
-          "title": "Implement an enumerator that iterates through columns of an XLSX worksheet, exposing each column\u2019s data sequentially."
+          "title": "Implement an enumerator that iterates through columns of an XLSX worksheet, exposing each column\\u2019s data sequentially."
         },
         {
           "file": "implement-an-enumerator-to-iterate-over-cells-in-an-xlsx-workbook-programmatical.cs",
@@ -121,7 +121,7 @@
         },
         {
           "file": "implement-c-functionality-to-retrieve-and-modify-specific-richtext-fragments-wit.cs",
-          "title": "Implement C# functionality to retrieve and modify specific rich\u2011text fragments within a cell of an XLSX workbook."
+          "title": "Implement C# functionality to retrieve and modify specific rich\\u2011text fragments within a cell of an XLSX workbook."
         },
         {
           "file": "implement-c-logic-that-parses-numeric-strings-into-numeric-types-and-writes-the-.cs",
@@ -133,7 +133,7 @@
         },
         {
           "file": "implement-data-validation-in-xlsx-spreadsheets-following-microsoft-excel-specifi.cs",
-          "title": "Implement data validation in XLSX spreadsheets following Microsoft\u202fExcel specifications, including custom formulas and list constraints."
+          "title": "Implement data validation in XLSX spreadsheets following Microsoft\\u202fExcel specifications, including custom formulas and list constraints."
         },
         {
           "file": "implement-data-validation-rules-on-cells-within-an-xlsx-workbook-using-net-apis-.cs",
@@ -141,7 +141,7 @@
         },
         {
           "file": "implement-sorting-functionality-for-data-within-an-xlsx-workbook-applying-excels.cs",
-          "title": "Implement sorting functionality for data within an XLSX workbook, applying Excel\u2019s native sorting capabilities."
+          "title": "Implement sorting functionality for data within an XLSX workbook, applying Excel\\u2019s native sorting capabilities."
         },
         {
           "file": "implement-sorting-of-data-within-an-xlsx-workbook-applying-specified-criteria-an.cs",
@@ -201,11 +201,11 @@
         },
         {
           "file": "insert-data-into-an-xlsx-worksheet-following-rowmajor-order-before-proceeding-to.cs",
-          "title": "Insert data into an XLSX worksheet following row\u2011major order before proceeding to column\u2011wise population."
+          "title": "Insert data into an XLSX worksheet following row\\u2011major order before proceeding to column\\u2011wise population."
         },
         {
           "file": "insert-htmlformatted-rich-text-into-a-worksheet-cell-when-programmatically-gener.cs",
-          "title": "Insert HTML\u2011formatted rich text into a worksheet cell when programmatically generating an XLSX file."
+          "title": "Insert HTML\\u2011formatted rich text into a worksheet cell when programmatically generating an XLSX file."
         },
         {
           "file": "load-data-from-an-xlsx-file-into-a-worksheet-mapping-cells-to-the-appropriate-da.cs",
@@ -221,7 +221,7 @@
         },
         {
           "file": "maintain-a-leading-singlequote-prefix-for-cell-values-or-ranges-when-exporting-t.cs",
-          "title": "Maintain a leading single\u2011quote prefix for cell values or ranges when exporting to XLSX files."
+          "title": "Maintain a leading single\\u2011quote prefix for cell values or ranges when exporting to XLSX files."
         },
         {
           "file": "manipulate-spreadsheet-data-programmatically-with-full-xlsx-format-support-enabl.cs",
@@ -229,11 +229,11 @@
         },
         {
           "file": "parse-stringbased-numeric-values-convert-them-to-numeric-types-and-generate-an-x.cs",
-          "title": "Parse string\u2011based numeric values, convert them to numeric types, and generate an XLSX workbook containing the data."
+          "title": "Parse string\\u2011based numeric values, convert them to numeric types, and generate an XLSX workbook containing the data."
         },
         {
           "file": "process-xlsx-columns-that-contain-nonstrongly-typed-data-preserving-original-val.cs",
-          "title": "Process XLSX columns that contain non\u2011strongly typed data, preserving original values during import and manipulation."
+          "title": "Process XLSX columns that contain non\\u2011strongly typed data, preserving original values during import and manipulation."
         },
         {
           "file": "programmatically-generate-row-level-subtotals-in-an-xlsx-worksheet-by-applying-s.cs",
@@ -257,7 +257,7 @@
         },
         {
           "file": "retrieve-a-cell-object-from-the-worksheets-cells-collection-using-its-zerobased-.cs",
-          "title": "Retrieve a cell object from the worksheet's cells collection using its zero\u2011based index in an XLSX file."
+          "title": "Retrieve a cell object from the worksheet's cells collection using its zero\\u2011based index in an XLSX file."
         },
         {
           "file": "retrieve-a-comprehensive-list-of-documentation-articles-associated-with-a-workbo.cs",
@@ -321,8 +321,8 @@
         "Console.WriteLine",
         "CellArea.CreateCellArea",
         "Validations.Add",
-        "Columns.Add",
         "Rows.Add",
+        "Columns.Add",
         "AutoFilter.Refresh",
         "Cells.CreateRange",
         "Worksheets.Add",
@@ -462,7 +462,7 @@
         },
         {
           "file": "transform-a-workbook-in-xlsx-format-into-an-xml-file-using-the-librarys-conversi.cs",
-          "title": "Transform a workbook in XLSX format into an XML file using the library\u2019s conversion capabilities."
+          "title": "Transform a workbook in XLSX format into an XML file using the library\\u2019s conversion capabilities."
         },
         {
           "file": "transform-an-xlsx-workbook-into-a-csv-file-removing-any-leading-empty-rows-and-c.cs",
@@ -527,8 +527,8 @@
         "XlsxToXmlConverter",
         "XlsxToDocxConverter",
         "XlsxToPdfConverter",
-        "Converter.Run",
         "Converter",
+        "Converter.Run",
         "Workbook.Save",
         "ConvertToMhtml",
         "XlsxToXpsConverter",
@@ -610,7 +610,7 @@
         },
         {
           "file": "mark-all-hyperlinks-as-uptodate-by-setting-the-linksuptodate-property-to-true-in.cs",
-          "title": "Mark all hyperlinks as up\u2011to\u2011date by setting the LinksUpToDate property to TRUE in an XLSX workbook."
+          "title": "Mark all hyperlinks as up\\u2011to\\u2011date by setting the LinksUpToDate property to TRUE in an XLSX workbook."
         },
         {
           "file": "programmatically-delete-all-custom-document-properties-from-an-xlsx-workbook-to-.cs",
@@ -638,7 +638,7 @@
         },
         {
           "file": "set-retrieve-and-modify-metadata-properties-of-an-xlsx-workbook-including-custom.cs",
-          "title": "Set, retrieve, and modify metadata properties of an XLSX workbook, including custom and built\u2011in attributes, programmatically."
+          "title": "Set, retrieve, and modify metadata properties of an XLSX workbook, including custom and built\\u2011in attributes, programmatically."
         },
         {
           "file": "set-the-linksuptodate-property-to-false-in-an-xlsx-workbook-to-flag-its-hyperlin.cs",
@@ -646,19 +646,19 @@
         },
         {
           "file": "set-the-workbooks-builtin-document-property-to-define-the-xlsx-files-version-pro.cs",
-          "title": "Set the workbook's built\u2011in document property to define the XLSX file's version programmatically via the API."
+          "title": "Set the workbook's built\\u2011in document property to define the XLSX file's version programmatically via the API."
         },
         {
           "file": "set-the-workbooks-language-programmatically-via-its-builtin-document-properties-.cs",
-          "title": "Set the workbook's language programmatically via its built\u2011in document properties in the XLSX file."
+          "title": "Set the workbook's language programmatically via its built\\u2011in document properties in the XLSX file."
         },
         {
           "file": "set-up-a-custom-property-named-link-to-content-within-an-xlsx-workbook-using-the.cs",
-          "title": "Set up a custom property named \u201clink to content\u201d within an XLSX workbook using the API."
+          "title": "Set up a custom property named \\u201clink to content\\u201d within an XLSX workbook using the API."
         },
         {
           "file": "update-the-linksuptodate-builtin-property-of-an-xlsx-workbook-to-reflect-its-cur.cs",
-          "title": "Update the LinksUpToDate built\u2011in property of an XLSX workbook to reflect its current link status."
+          "title": "Update the LinksUpToDate built\\u2011in property of an XLSX workbook to reflect its current link status."
         }
       ],
       "required_namespaces": [
@@ -791,7 +791,7 @@
         },
         {
           "file": "decrypt-an-encrypted-ods-file-using-net-and-convert-the-output-to-xlsx-format.cs",
-          "title": "Decrypt an encrypted ODS file using\u202f.NET and convert the output to XLSX format."
+          "title": "Decrypt an encrypted ODS file using\\u202f.NET and convert the output to XLSX format."
         },
         {
           "file": "decrypt-an-ods-file-by-loading-it-with-loadoptionspassword-set-and-clearing-work.cs",
@@ -807,7 +807,7 @@
         },
         {
           "file": "determine-whether-an-xlsx-workbook-is-passwordprotected-for-modifications-and-va.cs",
-          "title": "Determine whether an XLSX workbook is password\u2011protected for modifications and validate the provided password."
+          "title": "Determine whether an XLSX workbook is password\\u2011protected for modifications and validate the provided password."
         },
         {
           "file": "determine-whether-the-supplied-xlsx-workbook-is-encrypted-and-retrieve-its-encry.cs",
@@ -827,7 +827,7 @@
         },
         {
           "file": "encrypt-an-xlsx-workbook-file-using-microsoft-excels-standard-encryption-to-prot.cs",
-          "title": "Encrypt an XLSX workbook file using Microsoft Excel\u2019s standard encryption to protect its contents."
+          "title": "Encrypt an XLSX workbook file using Microsoft Excel\\u2019s standard encryption to protect its contents."
         },
         {
           "file": "encrypt-an-xlsx-workbook-using-a-password-to-protect-its-contents-from-unauthori.cs",
@@ -993,11 +993,11 @@
         },
         {
           "file": "configure-globalizationsettings-to-assign-custom-text-to-a-pie-charts-other-labe.cs",
-          "title": "Configure GlobalizationSettings to assign custom text to a pie chart's \u201cOther\u201d label in an XLSX workbook."
+          "title": "Configure GlobalizationSettings to assign custom text to a pie chart's \\u201cOther\\u201d label in an XLSX workbook."
         },
         {
           "file": "execute-the-cellformulalocal-sample-on-an-xlsx-workbook-to-apply-localespecific-.cs",
-          "title": "Execute the Cell.FormulaLocal sample on an XLSX workbook to apply locale\u2011specific formulas throughout the spreadsheet."
+          "title": "Execute the Cell.FormulaLocal sample on an XLSX workbook to apply locale\\u2011specific formulas throughout the spreadsheet."
         },
         {
           "file": "execute-the-provided-code-to-localize-subtotal-and-grand-total-labels-in-an-xlsx.cs",
@@ -1036,8 +1036,8 @@
         "Aspose.Cells",
         "System",
         "Aspose.Cells.Charts",
-        "Aspose.Cells.Settings",
         "Aspose.Cells.Pivot",
+        "Aspose.Cells.Settings",
         "System.Globalization"
       ],
       "key_apis": [
@@ -1086,7 +1086,7 @@
         },
         {
           "file": "add-a-library-reference-to-the-workbooks-vba-project-using-a-json-configuration-.cs",
-          "title": "Add a library reference to the workbook\u2019s VBA project using a JSON configuration payload."
+          "title": "Add a library reference to the workbook\\u2019s VBA project using a JSON configuration payload."
         },
         {
           "file": "add-a-library-reference-to-the-workbooks-vba-project-when-processing-oxps-files-.cs",
@@ -1102,11 +1102,11 @@
         },
         {
           "file": "add-a-reference-to-a-library-in-the-workbooks-vba-project-and-export-the-workboo.cs",
-          "title": "Add a reference to a library in the workbook\u2019s VBA project and export the workbook as a PDF."
+          "title": "Add a reference to a library in the workbook\\u2019s VBA project and export the workbook as a PDF."
         },
         {
           "file": "add-a-reference-to-a-library-in-the-workbooks-vba-project-by-importing-a-difform.cs",
-          "title": "Add a reference to a library in the workbook's VBA project by importing a DIF\u2011formatted file."
+          "title": "Add a reference to a library in the workbook's VBA project by importing a DIF\\u2011formatted file."
         },
         {
           "file": "add-a-reference-to-a-vba-project-within-a-workbook-using-a-prn-formatted-library.cs",
@@ -1134,15 +1134,15 @@
         },
         {
           "file": "add-modify-or-delete-vba-modules-and-procedures-within-an-xlsb-macroenabled-work.cs",
-          "title": "Add, modify, or delete VBA modules and procedures within an XLSB macro\u2011enabled workbook using the API."
+          "title": "Add, modify, or delete VBA modules and procedures within an XLSB macro\\u2011enabled workbook using the API."
         },
         {
           "file": "apply-a-password-to-an-excel-workbooks-vba-project-by-providing-the-credentials-.cs",
-          "title": "Apply a password to an Excel workbook\u2019s VBA project by providing the credentials in JSON format."
+          "title": "Apply a password to an Excel workbook\\u2019s VBA project by providing the credentials in JSON format."
         },
         {
           "file": "apply-a-password-to-an-excel-workbooks-vba-project-in-c-retrieving-the-password-.cs",
-          "title": "Apply a password to an Excel workbook\u2019s VBA project in C#, retrieving the password from a TSV\u2011formatted source."
+          "title": "Apply a password to an Excel workbook\\u2019s VBA project in C#, retrieving the password from a TSV\\u2011formatted source."
         },
         {
           "file": "apply-a-password-to-an-excel-workbooks-vba-project-in-c-using-a-txt-file-for-the.cs",
@@ -1234,7 +1234,7 @@
         },
         {
           "file": "check-whether-a-vba-project-is-passwordprotected-using-c-and-the-tab-file-format.cs",
-          "title": "Check whether a VBA project is password\u2011protected using C# and the TAB file format."
+          "title": "Check whether a VBA project is password\\u2011protected using C# and the TAB file format."
         },
         {
           "file": "convert-the-existing-vba-macro-to-c-code-that-reads-and-writes-data-using-the-di.cs",
@@ -1254,11 +1254,11 @@
         },
         {
           "file": "determine-in-c-whether-a-workbooks-vba-project-is-digitally-signed-utilizing-the.cs",
-          "title": "Determine in C# whether a workbook\u2019s VBA project is digitally signed, utilizing the NUMBERS format."
+          "title": "Determine in C# whether a workbook\\u2019s VBA project is digitally signed, utilizing the NUMBERS format."
         },
         {
           "file": "determine-in-c-whether-a-workbooks-vba-project-is-digitally-signed-when-processi.cs",
-          "title": "Determine in C# whether a workbook\u2019s VBA project is digitally signed when processing the file in FODS format."
+          "title": "Determine in C# whether a workbook\\u2019s VBA project is digitally signed when processing the file in FODS format."
         },
         {
           "file": "determine-programmatically-at-runtime-whether-the-vba-project-embedded-within-an.cs",
@@ -1266,11 +1266,11 @@
         },
         {
           "file": "determine-programmatically-in-c-whether-a-workbooks-vba-project-is-signed-utiliz.cs",
-          "title": "Determine programmatically in C# whether a workbook\u2019s VBA project is signed, utilizing the SXC file format."
+          "title": "Determine programmatically in C# whether a workbook\\u2019s VBA project is signed, utilizing the SXC file format."
         },
         {
           "file": "determine-programmatically-via-c-whether-a-vba-project-is-passwordprotected-usin.cs",
-          "title": "Determine programmatically, via C#, whether a VBA project is password\u2011protected, using data supplied in a TXT file."
+          "title": "Determine programmatically, via C#, whether a VBA project is password\\u2011protected, using data supplied in a TXT file."
         },
         {
           "file": "determine-programmatically-whether-an-xlsb-workbooks-vba-project-is-protected-an.cs",
@@ -1290,7 +1290,7 @@
         },
         {
           "file": "determine-via-c-whether-a-workbooks-vba-project-is-digitally-signed-when-the-fil.cs",
-          "title": "Determine via C# whether a workbook\u2019s VBA project is digitally signed when the file is in PDF format."
+          "title": "Determine via C# whether a workbook\\u2019s VBA project is digitally signed when the file is in PDF format."
         },
         {
           "file": "determine-whether-a-vba-project-in-an-mht-file-is-protected-and-locked-for-viewi.cs",
@@ -1322,7 +1322,7 @@
         },
         {
           "file": "determine-whether-a-vba-project-is-protected-and-viewlocked-returning-the-status.cs",
-          "title": "Determine whether a VBA project is protected and view\u2011locked, returning the status in JSON format."
+          "title": "Determine whether a VBA project is protected and view\\u2011locked, returning the status in JSON format."
         },
         {
           "file": "determine-whether-a-vba-project-is-protected-by-analyzing-its-xml-representation.cs",
@@ -1362,7 +1362,7 @@
         },
         {
           "file": "determine-whether-a-workbooks-vba-project-is-digitally-signed-using-c-and-the-pr.cs",
-          "title": "Determine whether a workbook\u2019s VBA project is digitally signed using C# and the PRN file format."
+          "title": "Determine whether a workbook\\u2019s VBA project is digitally signed using C# and the PRN file format."
         },
         {
           "file": "determine-whether-a-workbooks-vba-project-is-digitally-signed-when-using-the-spr.cs",
@@ -1398,11 +1398,11 @@
         },
         {
           "file": "determine-whether-the-vba-project-embedded-in-an-xlsm-workbook-is-passwordprotec.cs",
-          "title": "Determine whether the VBA project embedded in an XLSM workbook is password\u2011protected and cannot be edited."
+          "title": "Determine whether the VBA project embedded in an XLSM workbook is password\\u2011protected and cannot be edited."
         },
         {
           "file": "determine-whether-the-vba-project-embedded-in-an-xlsx-format-workbook-is-passwor.cs",
-          "title": "Determine whether the VBA project embedded in an XLSX format workbook is password\u2011protected and cannot be edited."
+          "title": "Determine whether the VBA project embedded in an XLSX format workbook is password\\u2011protected and cannot be edited."
         },
         {
           "file": "determine-whether-the-vba-project-embedded-in-an-xlsx-workbook-is-digitally-sign.cs",
@@ -1426,7 +1426,7 @@
         },
         {
           "file": "determine-whether-the-vba-project-in-an-xltm-file-is-passwordprotected-and-set-a.cs",
-          "title": "Determine whether the VBA project in an XLTM file is password\u2011protected and set as locked for viewing."
+          "title": "Determine whether the VBA project in an XLTM file is password\\u2011protected and set as locked for viewing."
         },
         {
           "file": "determine-whether-the-vba-project-within-a-workbook-is-digitally-signed-and-outp.cs",
@@ -1434,7 +1434,7 @@
         },
         {
           "file": "determine-whether-the-workbooks-vba-project-is-digitally-signed-and-report-the-s.cs",
-          "title": "Determine whether the workbook\u2019s VBA project is digitally signed and report the status in CSV format."
+          "title": "Determine whether the workbook\\u2019s VBA project is digitally signed and report the status in CSV format."
         },
         {
           "file": "determine-whether-vba-code-is-digitally-signed-and-export-the-verification-resul.cs",
@@ -1574,7 +1574,7 @@
         },
         {
           "file": "implement-a-c-routine-that-evaluates-a-vba-projects-protection-status-and-locked.cs",
-          "title": "Implement a C# routine that evaluates a VBA project's protection status and locked\u2011for\u2011viewing flag, returning results in JSON."
+          "title": "Implement a C# routine that evaluates a VBA project's protection status and locked\\u2011for\\u2011viewing flag, returning results in JSON."
         },
         {
           "file": "implement-a-c-routine-that-verifies-vba-code-signatures-and-returns-the-result-i.cs",
@@ -1602,7 +1602,7 @@
         },
         {
           "file": "include-a-library-reference-in-a-workbooks-vba-project-by-importing-the-referenc.cs",
-          "title": "Include a library reference in a workbook\u2019s VBA project by importing the reference definition from a CSV file."
+          "title": "Include a library reference in a workbook\\u2019s VBA project by importing the reference definition from a CSV file."
         },
         {
           "file": "include-a-library-reference-in-the-vba-project-of-an-xls-workbook-to-enable-exte.cs",
@@ -1622,7 +1622,7 @@
         },
         {
           "file": "include-an-htmlformatted-library-reference-in-an-excel-vba-project-to-enable-ext.cs",
-          "title": "Include an HTML\u2011formatted library reference in an Excel VBA project to enable external component usage."
+          "title": "Include an HTML\\u2011formatted library reference in an Excel VBA project to enable external component usage."
         },
         {
           "file": "include-the-pdf-library-as-a-reference-in-the-excel-vba-project-to-enable-pdf-fu.cs",
@@ -1630,11 +1630,11 @@
         },
         {
           "file": "insert-a-library-reference-in-tsv-format-into-a-workbooks-vba-project-to-enable-.cs",
-          "title": "Insert a library reference in TSV format into a workbook\u2019s VBA project to enable external functionality."
+          "title": "Insert a library reference in TSV format into a workbook\\u2019s VBA project to enable external functionality."
         },
         {
           "file": "insert-a-txtformatted-library-reference-into-the-vba-project-of-a-workbook-to-en.cs",
-          "title": "Insert a TXT\u2011formatted library reference into the VBA project of a workbook to enable external functionality."
+          "title": "Insert a TXT\\u2011formatted library reference into the VBA project of a workbook to enable external functionality."
         },
         {
           "file": "insert-a-vba-module-into-a-workbook-programmatically-via-c-ensuring-code-indenta.cs",
@@ -1642,7 +1642,7 @@
         },
         {
           "file": "insert-an-xmlbased-library-reference-into-an-excel-vba-project-to-enable-externa.cs",
-          "title": "Insert an XML\u2011based library reference into an Excel VBA project to enable external functionality."
+          "title": "Insert an XML\\u2011based library reference into an Excel VBA project to enable external functionality."
         },
         {
           "file": "integrate-a-vba-module-into-a-c-solution-by-providing-its-definition-in-xml-form.cs",
@@ -1650,7 +1650,7 @@
         },
         {
           "file": "maintain-and-edit-the-vba-modules-of-an-excel-macroenabled-workbook-by-importing.cs",
-          "title": "Maintain and edit the VBA modules of an Excel macro\u2011enabled workbook by importing and exporting them in CSV format."
+          "title": "Maintain and edit the VBA modules of an Excel macro\\u2011enabled workbook by importing and exporting them in CSV format."
         },
         {
           "file": "manipulate-the-vba-modules-of-an-excel-macro-enabled-workbook-while-operating-wi.cs",
@@ -1686,7 +1686,7 @@
         },
         {
           "file": "provide-a-jsonformatted-code-snippet-illustrating-the-required-functionality-and.cs",
-          "title": "Provide a JSON\u2011formatted code snippet illustrating the required functionality and usage patterns for developers."
+          "title": "Provide a JSON\\u2011formatted code snippet illustrating the required functionality and usage patterns for developers."
         },
         {
           "file": "provide-demonstrative-code-snippets-illustrating-how-to-create-read-and-manipula.cs",
@@ -1714,7 +1714,7 @@
         },
         {
           "file": "provide-sample-code-demonstrating-how-to-generate-output-in-prn-format-using-the.cs",
-          "title": "Provide sample code demonstrating how to generate output in PRN format using the library\u2019s API."
+          "title": "Provide sample code demonstrating how to generate output in PRN format using the library\\u2019s API."
         },
         {
           "file": "provide-sample-code-demonstrating-how-to-read-and-write-data-using-the-dif-file-.cs",
@@ -1750,7 +1750,7 @@
         },
         {
           "file": "set-a-password-on-an-excel-workbooks-vba-project-programmatically-in-c-employing.cs",
-          "title": "Set a password on an Excel workbook\u2019s VBA project programmatically in C# employing the TAB format."
+          "title": "Set a password on an Excel workbook\\u2019s VBA project programmatically in C# employing the TAB format."
         },
         {
           "file": "update-the-c-macro-to-manipulate-dbf-files-by-integrating-or-converting-the-exis.cs",
@@ -1814,7 +1814,7 @@
         },
         {
           "file": "validate-the-digital-signature-of-vba-code-programmatically-in-c-outputting-resu.cs",
-          "title": "Validate the digital signature of VBA code programmatically in C#, outputting results in TAB\u2011delimited format."
+          "title": "Validate the digital signature of VBA code programmatically in C#, outputting results in TAB\\u2011delimited format."
         },
         {
           "file": "validate-the-digital-signature-of-vba-code-provided-in-prn-format-and-return-its.cs",
@@ -1842,11 +1842,11 @@
         },
         {
           "file": "validate-the-vba-codes-digital-signature-in-c-by-parsing-and-evaluating-the-corr.cs",
-          "title": "Validate the VBA code\u2019s digital signature in C# by parsing and evaluating the corresponding XML data."
+          "title": "Validate the VBA code\\u2019s digital signature in C# by parsing and evaluating the corresponding XML data."
         },
         {
           "file": "validate-the-vba-codes-digital-signature-in-c-outputting-the-result-as-a-jsonfor.cs",
-          "title": "Validate the VBA code's digital signature in C#, outputting the result as a JSON\u2011formatted response."
+          "title": "Validate the VBA code's digital signature in C#, outputting the result as a JSON\\u2011formatted response."
         },
         {
           "file": "validate-the-vba-codes-digital-signature-within-a-dif-file-to-confirm-its-authen.cs",
@@ -1878,7 +1878,7 @@
         },
         {
           "file": "validate-whether-vba-code-is-digitally-signed-using-a-c-routine-that-processes-h.cs",
-          "title": "Validate whether VBA code is digitally signed using a C# routine that processes HTML\u2011formatted input."
+          "title": "Validate whether VBA code is digitally signed using a C# routine that processes HTML\\u2011formatted input."
         },
         {
           "file": "validate-whether-vba-code-is-digitally-signed-within-a-c-application-processing-.cs",
@@ -1918,7 +1918,7 @@
         },
         {
           "file": "write-data-to-the-console-serialized-as-a-jsonformatted-string-ensuring-the-outp.cs",
-          "title": "Write data to the console serialized as a JSON\u2011formatted string, ensuring the output conforms to valid JSON syntax."
+          "title": "Write data to the console serialized as a JSON\\u2011formatted string, ensuring the output conforms to valid JSON syntax."
         }
       ],
       "required_namespaces": [
@@ -1981,11 +1981,11 @@
         },
         {
           "file": "apply-the-nonenglish-user-notice-when-loading-an-xlsx-workbook-to-ensure-correct.cs",
-          "title": "Apply the non\u2011English user notice when loading an XLSX workbook to ensure correct localization handling."
+          "title": "Apply the non\\u2011English user notice when loading an XLSX workbook to ensure correct localization handling."
         },
         {
           "file": "apply-the-setting-formulas-notice-for-nonenglish-users-configuration-when-loadin.cs",
-          "title": "Apply the \u201cSetting Formulas - Notice for Non\u2011English Users\u201d configuration when loading an XLSX workbook."
+          "title": "Apply the \\u201cSetting Formulas - Notice for Non\\u2011English Users\\u201d configuration when loading an XLSX workbook."
         },
         {
           "file": "assign-a-complex-formula-to-a-named-range-during-the-loading-of-an-xlsx-workbook.cs",
@@ -2045,11 +2045,11 @@
         },
         {
           "file": "examine-the-provided-sample-code-to-determine-the-maximum-sharedformula-row-limi.cs",
-          "title": "Examine the provided sample code to determine the maximum shared\u2011formula row limit when loading an XLSX workbook."
+          "title": "Examine the provided sample code to determine the maximum shared\\u2011formula row limit when loading an XLSX workbook."
         },
         {
           "file": "handle-duplicate-specify-maximum-rows-of-shared-formula-headings-when-loading-an.cs",
-          "title": "Handle duplicate \u201cSpecify Maximum Rows of Shared Formula\u201d headings when loading an XLSX workbook."
+          "title": "Handle duplicate \\u201cSpecify Maximum Rows of Shared Formula\\u201d headings when loading an XLSX workbook."
         },
         {
           "file": "identify-and-navigate-precedent-and-dependent-cells-when-loading-an-xlsx-workboo.cs",
@@ -2057,7 +2057,7 @@
         },
         {
           "file": "identify-circular-references-during-the-loading-of-an-xlsx-workbook-as-described.cs",
-          "title": "Identify circular references during the loading of an XLSX workbook as described in the \u201cDetecting Circular Reference\u201d guidelines."
+          "title": "Identify circular references during the loading of an XLSX workbook as described in the \\u201cDetecting Circular Reference\\u201d guidelines."
         },
         {
           "file": "implement-a-code-sample-that-loads-a-workbook-in-xlsx-format-following-the-provi.cs",
@@ -2069,7 +2069,7 @@
         },
         {
           "file": "implement-calculation-of-excel-2016-minifs-and-maxifs-functions-when-loading-an-.cs",
-          "title": "Implement calculation of Excel\u202f2016 MINIFS and MAXIFS functions when loading an XLSX workbook."
+          "title": "Implement calculation of Excel\\u202f2016 MINIFS and MAXIFS functions when loading an XLSX workbook."
         },
         {
           "file": "implement-excel-2016-minifs-and-maxifs-function-evaluation-while-loading-an-xlsx.cs",
@@ -2093,7 +2093,7 @@
         },
         {
           "file": "load-a-workbook-in-xlsx-format-and-produce-the-result-defined-in-the-result-spec.cs",
-          "title": "Load a workbook in XLSX format and produce the result defined in the \u201cResult\u201d specification."
+          "title": "Load a workbook in XLSX format and produce the result defined in the \\u201cResult\\u201d specification."
         },
         {
           "file": "load-an-xlsx-workbook-and-trace-both-precedent-and-dependent-cells-following-the.cs",
@@ -2109,15 +2109,15 @@
         },
         {
           "file": "load-an-xlsx-workbook-using-english-formatted-formulas-such-as-sum-instead-of-lo.cs",
-          "title": "Load an XLSX workbook using English-formatted formulas, such as\u202f=SUM(), instead of locale-specific function names."
+          "title": "Load an XLSX workbook using English-formatted formulas, such as\\u202f=SUM(), instead of locale-specific function names."
         },
         {
           "file": "observe-the-considerations-outlined-in-important-to-know-for-formulas-when-loadi.cs",
-          "title": "Observe the considerations outlined in \u201cImportant to Know for Formulas\u201d when loading a workbook from an XLSX file."
+          "title": "Observe the considerations outlined in \\u201cImportant to Know for Formulas\\u201d when loading a workbook from an XLSX file."
         },
         {
           "file": "observe-the-important-considerations-outlined-in-the-important-to-know-section-w.cs",
-          "title": "Observe the important considerations outlined in the \u201cImportant to Know\u201d section when loading an XLSX workbook."
+          "title": "Observe the important considerations outlined in the \\u201cImportant to Know\\u201d section when loading an XLSX workbook."
         },
         {
           "file": "obtain-the-provided-sample-code-and-programmatically-load-a-workbook-in-xlsx-for.cs",
@@ -2149,7 +2149,7 @@
         },
         {
           "file": "provide-two-guidelines-for-nonenglish-users-to-correctly-create-formulas-when-lo.cs",
-          "title": "Provide two guidelines for non\u2011English users to correctly create formulas when loading an XLSX workbook."
+          "title": "Provide two guidelines for non\\u2011English users to correctly create formulas when loading an XLSX workbook."
         },
         {
           "file": "recalculate-workbook-formulas-iteratively-during-xlsx-file-loading-to-ensure-all.cs",
@@ -2157,7 +2157,7 @@
         },
         {
           "file": "reference-the-related-article-specified-in-related-article-when-programmatically.cs",
-          "title": "Reference the related article specified in \u201cRelated Article\u201d when programmatically loading an XLSX workbook."
+          "title": "Reference the related article specified in \\u201cRelated Article\\u201d when programmatically loading an XLSX workbook."
         },
         {
           "file": "retrieve-a-range-of-calculated-values-using-abstractcalculationengine-while-prog.cs",
@@ -2193,7 +2193,7 @@
         },
         {
           "file": "when-loading-an-xlsx-workbook-enable-tracing-of-cell-precedents-according-to-the.cs",
-          "title": "When loading an XLSX workbook, enable tracing of cell precedents according to the Tracing\u202fPrecedents specification."
+          "title": "When loading an XLSX workbook, enable tracing of cell precedents according to the Tracing\\u202fPrecedents specification."
         },
         {
           "file": "when-loading-an-xlsx-workbook-output-the-console-messages-defined-in-the-console.cs",
@@ -2303,7 +2303,7 @@
         },
         {
           "file": "implement-functionality-to-add-new-contenttypeproperties-or-modify-existing-ones.cs",
-          "title": "Implement functionality to add new ContentTypeProperties or modify existing ones within the file\u2019s metadata."
+          "title": "Implement functionality to add new ContentTypeProperties or modify existing ones within the file\\u2019s metadata."
         },
         {
           "file": "insert-a-custom-xml-part-into-the-workbook-to-store-additional-metadata-alongsid.cs",
@@ -2351,7 +2351,7 @@
         },
         {
           "file": "perform-a-regularexpression-based-searchandreplace-operation-on-all-cell-values-.cs",
-          "title": "Perform a regular\u2011expression based search\u2011and\u2011replace operation on all cell values within the workbook document."
+          "title": "Perform a regular\\u2011expression based search\\u2011and\\u2011replace operation on all cell values within the workbook document."
         },
         {
           "file": "persist-the-currently-loaded-workbook-to-a-file-in-its-native-format-ensuring-al.cs",
@@ -2383,10 +2383,10 @@
         }
       ],
       "required_namespaces": [
-        "System",
         "Aspose.Cells",
-        "Aspose.Cells.Markup",
+        "System",
         "System.Text",
+        "Aspose.Cells.Markup",
         "Aspose.Cells.Rendering",
         "Aspose.Cells.Properties",
         "System.Xml.Linq",
@@ -2400,8 +2400,8 @@
         "CustomXmlParts.Add",
         "Guid.NewGuid",
         "UTF8.GetString",
-        "Now.ToString",
         "ContentTypeProperties.Add",
+        "Now.ToString",
         "CustomXmlParts.SelectByID",
         "Worksheets.AddCopy",
         "RemoveUnusedStylesDemo",
@@ -2417,15 +2417,15 @@
       "examples": [
         {
           "file": "access-and-manipulate-worksheetscoped-named-ranges-within-an-xlsx-file-using-the.cs",
-          "title": "Access and manipulate worksheet\u2011scoped named ranges within an XLSX file using the worksheet reference where they were defined."
+          "title": "Access and manipulate worksheet\\u2011scoped named ranges within an XLSX file using the worksheet reference where they were defined."
         },
         {
           "file": "access-workbookscoped-named-ranges-from-any-worksheet-in-an-xlsx-workbook-by-ref.cs",
-          "title": "Access workbook\u2011scoped named ranges from any worksheet in an XLSX workbook by referencing their names."
+          "title": "Access workbook\\u2011scoped named ranges from any worksheet in an XLSX workbook by referencing their names."
         },
         {
           "file": "access-workbookscoped-named-ranges-from-any-worksheet-to-manage-ranges-within-an.cs",
-          "title": "Access workbook\u2011scoped named ranges from any worksheet to manage ranges within an XLSX workbook."
+          "title": "Access workbook\\u2011scoped named ranges from any worksheet to manage ranges within an XLSX workbook."
         },
         {
           "file": "add-data-to-cells-within-defined-ranges-on-the-first-worksheet-of-an-xlsx-workbo.cs",
@@ -2565,11 +2565,11 @@
         },
         {
           "file": "create-a-worksheetscoped-named-range-in-an-xlsx-workbook-to-manage-cell-collecti.cs",
-          "title": "Create a worksheet\u2011scoped named range in an XLSX workbook to manage cell collections programmatically."
+          "title": "Create a worksheet\\u2011scoped named range in an XLSX workbook to manage cell collections programmatically."
         },
         {
           "file": "create-access-and-duplicate-named-ranges-in-xlsx-files-according-to-the-formats-.cs",
-          "title": "Create, access, and duplicate named ranges in XLSX files according to the format\u2019s defined specifications."
+          "title": "Create, access, and duplicate named ranges in XLSX files according to the format\\u2019s defined specifications."
         },
         {
           "file": "create-an-additional-cell-range-within-an-xlsx-workbook-to-facilitate-advanced-r.cs",
@@ -2605,11 +2605,11 @@
         },
         {
           "file": "define-workbook-and-worksheetscoped-named-ranges-within-an-xlsx-file-to-control-.cs",
-          "title": "Define workbook\u2011 and worksheet\u2011scoped named ranges within an XLSX file to control cell groupings."
+          "title": "Define workbook\\u2011 and worksheet\\u2011scoped named ranges within an XLSX file to control cell groupings."
         },
         {
           "file": "implement-nonsequential-range-management-for-the-ai-document-assistant-and-outpu.cs",
-          "title": "Implement non\u2011sequential range management for the AI Document Assistant and output results in XLSX format."
+          "title": "Implement non\\u2011sequential range management for the AI Document Assistant and output results in XLSX format."
         },
         {
           "file": "implement-range-management-functionality-by-reviewing-and-adapting-the-provided-.cs",
@@ -2989,7 +2989,7 @@
       "examples": [
         {
           "file": "create-or-inspect-data-connections-within-an-xlsx-workbook-through-the-apis-defa.cs",
-          "title": "Create or inspect data connections within an XLSX workbook through the API\u2019s default handling mechanisms."
+          "title": "Create or inspect data connections within an XLSX workbook through the API\\u2019s default handling mechanisms."
         },
         {
           "file": "determine-whether-an-xlsx-workbook-includes-any-hidden-external-hyperlinks-when-.cs",
@@ -3089,7 +3089,7 @@
         },
         {
           "file": "update-an-existing-sql-data-connection-within-a-default-xlsx-workbook-using-the-.cs",
-          "title": "Update an existing SQL data connection within a default XLSX workbook using the library\u2019s API."
+          "title": "Update an existing SQL data connection within a default XLSX workbook using the library\\u2019s API."
         },
         {
           "file": "validate-hidden-external-links-in-an-xlsx-workbook-and-output-the-findings-to-a-.cs",
@@ -3111,10 +3111,10 @@
         "File.Exists",
         "DataConnectionDemo",
         "CheckHiddenExternalLinks",
-        "ExternalDataConnectionsDemo",
-        "Names.Add",
         "ExternalLinks.Add",
         "PivotTables.Add",
+        "ExternalDataConnectionsDemo",
+        "Names.Add",
         "Console.Out",
         "ManageExternalConnections",
         "Value.ToString",
@@ -3238,16 +3238,16 @@
       "key_apis": [
         "Program",
         "Console.WriteLine",
-        "File.WriteAllBytes",
         "WorkbookSerializer",
+        "File.WriteAllBytes",
         "WorkbookSavingDemo.Run",
         "WorkbookSavingDemo",
         "StrictOoxmlSaveDemo",
         "WorkbookSerializer.SerializeToXlsx",
         "Path.GetFullPath",
         "WorkbookExportHandler",
-        "WorkbookExporter",
         "File.WriteAllBytesAsync",
+        "WorkbookExporter",
         "WorkbookExport",
         "WorkbookFileDemo",
         "WorkbookPdfResponse"
@@ -3980,8 +3980,8 @@
         }
       ],
       "required_namespaces": [
-        "Aspose.Cells.Charts",
         "Aspose.Cells",
+        "Aspose.Cells.Charts",
         "System",
         "System.Drawing",
         "Aspose.Cells.Rendering"
@@ -4151,8 +4151,8 @@
         "ExportTimeline.Run",
         "AddSparklineToTemplate",
         "AddTimelineViaXml",
-        "TimelineConversion",
-        "TimelineConversion.Run"
+        "TimelineConversion.Run",
+        "TimelineConversion"
       ]
     },
     {
@@ -4393,19 +4393,19 @@
         "WorkbookMerger",
         "CombineWorkbooksDemo",
         "Worksheets.RemoveAt",
-        "NSeries.Add",
         "Charts.Add",
-        "File.Delete",
+        "NSeries.Add",
         "Path.Combine",
-        "CombineMultipleWorkbooksDemo",
+        "File.Delete",
         "CombineMultipleWorkbooksDemo.Run",
+        "CombineMultipleWorkbooksDemo",
         "WorkbookCombiner",
         "Cells.CopyRows"
       ]
     },
     {
       "name": "working-with-html",
-      "file_count": 138,
+      "file_count": 135,
       "examples": [
         {
           "file": "alter-the-html-hyperlink-target-type-when-converting-an-xlsx-workbook-to-html-ou.cs",
@@ -4460,10 +4460,6 @@
           "title": "Configure HtmlSaveOptions.CrossStringType to HtmlCrossType.Strikethrough when loading an XLSX workbook and exporting it to HTML."
         },
         {
-          "file": "configure-htmlsaveoptionsdefaultfont-to-arial-when-loading-an-xlsx-workbook-and-.cs",
-          "title": "Configure HtmlSaveOptions.DefaultFont to \"Arial\" when loading an XLSX workbook and exporting it to HTML."
-        },
-        {
           "file": "configure-htmlsaveoptionsdisablecss-to-true-when-converting-an-xlsx-workbook-to-.cs",
           "title": "Configure HtmlSaveOptions.DisableCss to true when converting an XLSX workbook to HTML output, ensuring CSS is omitted."
         },
@@ -4474,10 +4470,6 @@
         {
           "file": "configure-load-options-to-customize-how-an-xlsx-workbook-is-imported-controlling.cs",
           "title": "Configure load options to customize how an XLSX workbook is imported, controlling parsing behavior and data handling."
-        },
-        {
-          "file": "configure-loadoptionsnumberformat-to-0-to-ensure-csv-data-loads-as-plain-numeric.cs",
-          "title": "Configure LoadOptions.NumberFormat to \"0\" to ensure CSV data loads as plain numeric values during import."
         },
         {
           "file": "convert-an-xlsx-workbook-to-html-activating-htmlsaveoptionsexcludeunusedstyles-t.cs",
@@ -4545,7 +4537,7 @@
         },
         {
           "file": "enable-selfclosing-tag-recognition-in-htmlloadoptions-then-load-html-content-and.cs",
-          "title": "Enable self\u2011closing tag recognition in HtmlLoadOptions, then load HTML content and export it as an XLSX workbook."
+          "title": "Enable self\\u2011closing tag recognition in HtmlLoadOptions, then load HTML content and export it as an XLSX workbook."
         },
         {
           "file": "enable-the-crosshideright-option-when-converting-an-xlsx-workbook-to-html-by-set.cs",
@@ -4585,15 +4577,11 @@
         },
         {
           "file": "export-an-xlsx-workbook-to-html-preserving-righttoleft-text-expansion-during-the.cs",
-          "title": "Export an XLSX workbook to HTML preserving right\u2011to\u2011left text expansion during the conversion process."
+          "title": "Export an XLSX workbook to HTML preserving right\\u2011to\\u2011left text expansion during the conversion process."
         },
         {
           "file": "export-an-xlsx-worksheet-to-html-configuring-column-widths-in-em-or-percent-via-.cs",
           "title": "Export an XLSX worksheet to HTML, configuring column widths in em or percent via HtmlSaveOptions.ColumnWidthUnit."
-        },
-        {
-          "file": "export-an-xlsx-worksheet-to-html-configuring-htmlsaveoptionslinktarget_blank-so-.cs",
-          "title": "Export an XLSX worksheet to HTML, configuring HtmlSaveOptions.LinkTarget=\"_blank\" so all hyperlinks open in new windows."
         },
         {
           "file": "export-an-xlsx-worksheet-to-html-with-databar-colorscale-and-iconset-conditional.cs",
@@ -4605,7 +4593,7 @@
         },
         {
           "file": "export-the-xlsx-worksheet-with-righttoleft-text-to-html-enabling-the-expandrtlte.cs",
-          "title": "Export the XLSX worksheet with right\u2011to\u2011left text to HTML, enabling the ExpandRtlText option for expanded text."
+          "title": "Export the XLSX worksheet with right\\u2011to\\u2011left text to HTML, enabling the ExpandRtlText option for expanded text."
         },
         {
           "file": "generate-html-output-from-an-xlsx-workbook-while-suppressing-any-overlaid-elemen.cs",
@@ -4613,7 +4601,7 @@
         },
         {
           "file": "identify-and-correctly-handle-selfclosing-html-tags-during-html-import-and-subse.cs",
-          "title": "Identify and correctly handle self\u2011closing HTML tags during HTML import and subsequent XLSX export."
+          "title": "Identify and correctly handle self\\u2011closing HTML tags during HTML import and subsequent XLSX export."
         },
         {
           "file": "implement-a-custom-istreamprovider-to-load-an-html-document-and-export-it-direct.cs",
@@ -4669,7 +4657,7 @@
         },
         {
           "file": "load-an-html-file-into-a-workbook-autofit-all-columns-and-rows-and-export-the-re.cs",
-          "title": "Load an HTML file into a workbook, auto\u2011fit all columns and rows, and export the result as XLSX."
+          "title": "Load an HTML file into a workbook, auto\\u2011fit all columns and rows, and export the result as XLSX."
         },
         {
           "file": "load-an-html-file-into-a-workbook-enable-htmlloadoptionspreservedivlayout-and-sa.cs",
@@ -4701,7 +4689,7 @@
         },
         {
           "file": "load-an-xlsx-workbook-and-export-it-as-an-iecompatible-mhtml-file-while-preservi.cs",
-          "title": "Load an XLSX workbook and export it as an IE\u2011compatible MHTML file while preserving formatting."
+          "title": "Load an XLSX workbook and export it as an IE\\u2011compatible MHTML file while preserving formatting."
         },
         {
           "file": "load-an-xlsx-workbook-and-export-it-as-html-preserving-cell-tooltips-in-the-resu.cs",
@@ -4709,7 +4697,7 @@
         },
         {
           "file": "load-an-xlsx-workbook-and-export-it-to-an-iecompatible-mhtml-file-preserving-for.cs",
-          "title": "Load an XLSX workbook and export it to an IE\u2011compatible MHTML file, preserving formatting and interactivity."
+          "title": "Load an XLSX workbook and export it to an IE\\u2011compatible MHTML file, preserving formatting and interactivity."
         },
         {
           "file": "load-an-xlsx-workbook-and-export-it-to-html-by-implementing-a-custom-istreamprov.cs",
@@ -4777,11 +4765,11 @@
         },
         {
           "file": "load-an-xlsx-workbook-configure-htmlsaveoptions-with-linktarget-set-to-_blank-an.cs",
-          "title": "Load an XLSX workbook, configure HtmlSaveOptions with LinkTarget set to \u201c_blank\u201d, and save it as HTML."
+          "title": "Load an XLSX workbook, configure HtmlSaveOptions with LinkTarget set to \\u201c_blank\\u201d, and save it as HTML."
         },
         {
           "file": "load-an-xlsx-workbook-configure-htmlsaveoptionspresentationpreference-to-bestfit.cs",
-          "title": "Load an XLSX workbook, configure\u202fHtmlSaveOptions.PresentationPreference\u202fto\u202fBestFit, and export it as HTML format."
+          "title": "Load an XLSX workbook, configure\\u202fHtmlSaveOptions.PresentationPreference\\u202fto\\u202fBestFit, and export it as HTML format."
         },
         {
           "file": "load-an-xlsx-workbook-discard-unused-styles-and-export-the-content-to-html-forma.cs",
@@ -4845,7 +4833,7 @@
         },
         {
           "file": "parse-html-containing-selfclosing-tags-then-export-the-content-to-an-xlsx-workbo.cs",
-          "title": "Parse HTML containing self\u2011closing tags, then export the content to an XLSX workbook preserving tag integrity."
+          "title": "Parse HTML containing self\\u2011closing tags, then export the content to an XLSX workbook preserving tag integrity."
         },
         {
           "file": "preserve-div-tag-layout-when-importing-html-into-an-excel-workbook-and-exporting.cs",
@@ -4957,7 +4945,7 @@
         },
         {
           "file": "when-loading-an-xlsx-workbook-and-exporting-to-html-suppress-downlevelrevealed-c.cs",
-          "title": "When loading an XLSX workbook and exporting to HTML, suppress downlevel\u2011revealed comments in the generated output."
+          "title": "When loading an XLSX workbook and exporting to HTML, suppress downlevel\\u2011revealed comments in the generated output."
         }
       ],
       "required_namespaces": [
@@ -4981,13 +4969,13 @@
         "Directory.CreateDirectory",
         "CustomFilePathProvider",
         "Hyperlinks.Add",
-        "File.WriteAllText",
-        "ExportWorksheetToHtml",
         "Shapes.AddWordArt",
         "ExportPrintAreaOnlyDemo",
         "Stream.Close",
         "File.OpenRead",
-        "Path.GetFileName"
+        "Path.GetTempPath",
+        "Path.GetFileName",
+        "Cells.ImportCSV"
       ]
     },
     {
@@ -5072,8 +5060,8 @@
         "Aspose.Cells",
         "Aspose.Cells.Rendering",
         "Aspose.Cells.Drawing",
-        "Aspose.Cells.Charts",
-        "System.IO"
+        "System.IO",
+        "Aspose.Cells.Charts"
       ],
       "key_apis": [
         "Console.WriteLine",
@@ -5103,7 +5091,7 @@
         },
         {
           "file": "convert-a-json-file-with-tabdelimited-structure-to-csv-format-preserving-data-in.cs",
-          "title": "Convert a JSON file with TAB\u2011delimited structure to CSV format, preserving data integrity and field mapping."
+          "title": "Convert a JSON file with TAB\\u2011delimited structure to CSV format, preserving data integrity and field mapping."
         },
         {
           "file": "convert-a-numbers-excel-file-to-json-while-preserving-the-original-data-hierarch.cs",
@@ -5119,7 +5107,7 @@
         },
         {
           "file": "convert-a-tabdelimited-excel-workbook-to-json-format-preserving-column-headers-a.cs",
-          "title": "Convert a TAB\u2011delimited Excel workbook to JSON format, preserving column headers and data types accurately."
+          "title": "Convert a TAB\\u2011delimited Excel workbook to JSON format, preserving column headers and data types accurately."
         },
         {
           "file": "convert-a-tsv-json-file-into-a-csv-document-while-maintaining-original-data-stru.cs",
@@ -5135,7 +5123,7 @@
         },
         {
           "file": "convert-an-odsformatted-json-file-into-an-xlsx-workbook-preserving-data-types-an.cs",
-          "title": "Convert an ODS\u2011formatted JSON file into an XLSX workbook preserving data types and structure."
+          "title": "Convert an ODS\\u2011formatted JSON file into an XLSX workbook preserving data types and structure."
         },
         {
           "file": "convert-an-xls-workbook-into-a-json-document-maintaining-worksheet-structures-ce.cs",
@@ -5167,7 +5155,7 @@
         },
         {
           "file": "convert-an-xltx-excel-file-to-a-json-document-employing-the-librarys-default-con.cs",
-          "title": "Convert an XLTX Excel file to a JSON document employing the library\u2019s default conversion parameters."
+          "title": "Convert an XLTX Excel file to a JSON document employing the library\\u2019s default conversion parameters."
         },
         {
           "file": "convert-an-xltx-json-file-to-csv-format-utilizing-the-librarys-default-conversio.cs",
@@ -5191,11 +5179,11 @@
         },
         {
           "file": "transform-a-csvformatted-excel-workbook-into-a-json-representation-while-maintai.cs",
-          "title": "Transform a CSV\u2011formatted Excel workbook into a JSON representation while maintaining cell types and structural hierarchy."
+          "title": "Transform a CSV\\u2011formatted Excel workbook into a JSON representation while maintaining cell types and structural hierarchy."
         },
         {
           "file": "transform-a-csvformatted-txt-file-into-a-json-structure-preserving-all-field-val.cs",
-          "title": "Transform a CSV\u2011formatted TXT file into a JSON structure, preserving all field values and data types."
+          "title": "Transform a CSV\\u2011formatted TXT file into a JSON structure, preserving all field values and data types."
         },
         {
           "file": "transform-a-dbf-excel-file-into-a-json-document-preserving-data-types-and-struct.cs",
@@ -5223,7 +5211,7 @@
         },
         {
           "file": "transform-a-difformatted-csv-dataset-into-a-json-document-ensuring-all-fields-an.cs",
-          "title": "Transform a DIF\u2011formatted CSV dataset into a JSON document, ensuring all fields and data types are preserved accurately."
+          "title": "Transform a DIF\\u2011formatted CSV dataset into a JSON document, ensuring all fields and data types are preserved accurately."
         },
         {
           "file": "transform-a-fods-csv-file-into-a-json-representation-preserving-all-data-fields-.cs",
@@ -5243,7 +5231,7 @@
         },
         {
           "file": "transform-a-fodsformatted-json-file-into-a-csv-file-preserving-data-fidelity-and.cs",
-          "title": "Transform a FODS\u2011formatted JSON file into a CSV file, preserving data fidelity and column alignment."
+          "title": "Transform a FODS\\u2011formatted JSON file into a CSV file, preserving data fidelity and column alignment."
         },
         {
           "file": "transform-a-json-file-generated-from-an-xlsb-workbook-into-a-native-excel-spread.cs",
@@ -5279,11 +5267,11 @@
         },
         {
           "file": "transform-a-pdfderived-json-payload-into-a-fully-formatted-excel-workbook-with-p.cs",
-          "title": "Transform a PDF\u2011derived JSON payload into a fully formatted Excel workbook with preserved data structures."
+          "title": "Transform a PDF\\u2011derived JSON payload into a fully formatted Excel workbook with preserved data structures."
         },
         {
           "file": "transform-a-pdfembedded-csv-dataset-into-json-format-preserving-data-fidelity-an.cs",
-          "title": "Transform a PDF\u2011embedded CSV dataset into JSON format, preserving data fidelity and column metadata throughout the conversion."
+          "title": "Transform a PDF\\u2011embedded CSV dataset into JSON format, preserving data fidelity and column metadata throughout the conversion."
         },
         {
           "file": "transform-a-prn-json-file-into-csv-format-preserving-data-fidelity-and-appropria.cs",
@@ -5295,11 +5283,11 @@
         },
         {
           "file": "transform-a-prnformatted-csv-file-into-a-json-representation-preserving-data-typ.cs",
-          "title": "Transform a PRN\u2011formatted CSV file into a JSON representation, preserving data types and structure."
+          "title": "Transform a PRN\\u2011formatted CSV file into a JSON representation, preserving data types and structure."
         },
         {
           "file": "transform-a-prnformatted-json-file-into-an-xlsx-workbook-mapping-data-fields-to-.cs",
-          "title": "Transform a PRN\u2011formatted JSON file into an XLSX workbook, mapping data fields to corresponding spreadsheet cells."
+          "title": "Transform a PRN\\u2011formatted JSON file into an XLSX workbook, mapping data fields to corresponding spreadsheet cells."
         },
         {
           "file": "transform-a-spreadsheetml-excel-file-into-json-format-preserving-cell-data-types.cs",
@@ -5311,7 +5299,7 @@
         },
         {
           "file": "transform-a-spreadsheetmlformatted-json-document-into-a-csv-file-preserving-cell.cs",
-          "title": "Transform a SpreadsheetML\u2011formatted JSON document into a CSV file, preserving cell data and layout."
+          "title": "Transform a SpreadsheetML\\u2011formatted JSON document into a CSV file, preserving cell data and layout."
         },
         {
           "file": "transform-a-tab-delimited-csv-file-into-a-json-representation-preserving-data-ty.cs",
@@ -5323,7 +5311,7 @@
         },
         {
           "file": "transform-a-tabseparated-values-workbook-into-a-json-representation-preserving-c.cs",
-          "title": "Transform a tab\u2011separated values workbook into a JSON representation, preserving cell data and structure."
+          "title": "Transform a tab\\u2011separated values workbook into a JSON representation, preserving cell data and structure."
         },
         {
           "file": "transform-a-tsv-csv-file-into-a-json-document-preserving-data-types-and-structur.cs",
@@ -5331,7 +5319,7 @@
         },
         {
           "file": "transform-a-tsvformatted-json-file-into-an-excel-workbook-preserving-the-origina.cs",
-          "title": "Transform a TSV\u2011formatted JSON file into an Excel workbook, preserving the original data structure and types."
+          "title": "Transform a TSV\\u2011formatted JSON file into an Excel workbook, preserving the original data structure and types."
         },
         {
           "file": "transform-a-txt-json-file-into-an-excel-workbook-mapping-json-structures-to-corr.cs",
@@ -5367,19 +5355,19 @@
         },
         {
           "file": "transform-an-htmlformatted-csv-file-into-a-json-representation-mapping-each-row-.cs",
-          "title": "Transform an HTML\u2011formatted CSV file into a JSON representation, mapping each row to a corresponding object."
+          "title": "Transform an HTML\\u2011formatted CSV file into a JSON representation, mapping each row to a corresponding object."
         },
         {
           "file": "transform-an-htmlformatted-json-file-into-a-csv-dataset-preserving-field-mapping.cs",
-          "title": "Transform an HTML\u2011formatted JSON file into a CSV dataset, preserving field mappings and data integrity."
+          "title": "Transform an HTML\\u2011formatted JSON file into a CSV dataset, preserving field mappings and data integrity."
         },
         {
           "file": "transform-an-htmlformatted-json-file-into-an-excel-workbook-mapping-data-to-appr.cs",
-          "title": "Transform an HTML\u2011formatted JSON file into an Excel workbook, mapping data to appropriate worksheets."
+          "title": "Transform an HTML\\u2011formatted JSON file into an Excel workbook, mapping data to appropriate worksheets."
         },
         {
           "file": "transform-an-htmlformatted-spreadsheet-into-a-json-representation-preserving-cel.cs",
-          "title": "Transform an HTML\u2011formatted spreadsheet into a JSON representation preserving cell data, formatting, and structure."
+          "title": "Transform an HTML\\u2011formatted spreadsheet into a JSON representation preserving cell data, formatting, and structure."
         },
         {
           "file": "transform-an-input-json-file-into-a-new-json-output-applying-any-required-schema.cs",
@@ -5399,7 +5387,7 @@
         },
         {
           "file": "transform-an-mhtmlformatted-csv-file-into-a-json-representation-preserving-data-.cs",
-          "title": "Transform an MHTML\u2011formatted CSV file into a JSON representation, preserving data integrity and field mappings."
+          "title": "Transform an MHTML\\u2011formatted CSV file into a JSON representation, preserving data integrity and field mappings."
         },
         {
           "file": "transform-an-ods-spreadsheet-into-json-maintaining-data-integrity-and-appropriat.cs",
@@ -5419,7 +5407,7 @@
         },
         {
           "file": "transform-an-oxps-json-file-into-csv-format-mapping-json-elements-to-correspondi.cs",
-          "title": "Transform an OXPS JSON file into CSV format, mapping JSON elements to corresponding comma\u2011separated values."
+          "title": "Transform an OXPS JSON file into CSV format, mapping JSON elements to corresponding comma\\u2011separated values."
         },
         {
           "file": "transform-an-oxps-spreadsheet-file-into-a-json-representation-preserving-cell-da.cs",
@@ -5439,7 +5427,7 @@
         },
         {
           "file": "transform-an-sxcformatted-json-file-into-a-csv-file-preserving-data-fidelity-and.cs",
-          "title": "Transform an SXC\u2011formatted JSON file into a CSV file, preserving data fidelity and column mapping."
+          "title": "Transform an SXC\\u2011formatted JSON file into a CSV file, preserving data fidelity and column mapping."
         },
         {
           "file": "transform-an-xls-json-file-into-csv-format-using-the-default-conversion-paramete.cs",
@@ -5451,7 +5439,7 @@
         },
         {
           "file": "transform-an-xls-or-csv-file-into-json-using-the-librarys-default-conversion-set.cs",
-          "title": "Transform an XLS or CSV file into JSON using the library\u2019s default conversion settings."
+          "title": "Transform an XLS or CSV file into JSON using the library\\u2019s default conversion settings."
         },
         {
           "file": "transform-an-xls-spreadsheet-into-a-json-representation-preserving-data-fidelity.cs",
@@ -5475,7 +5463,7 @@
         },
         {
           "file": "transform-an-xlsb-workbook-into-a-json-representation-preserving-cell-values-and.cs",
-          "title": "Transform an XLSB workbook into a JSON representation, preserving cell values and the spreadsheet\u2019s structural hierarchy."
+          "title": "Transform an XLSB workbook into a JSON representation, preserving cell values and the spreadsheet\\u2019s structural hierarchy."
         },
         {
           "file": "transform-an-xlsm-csv-file-into-json-format-using-the-provided-default-conversio.cs",
@@ -5511,7 +5499,7 @@
         },
         {
           "file": "transform-an-xlsxderived-json-dataset-into-a-commaseparated-values-csv-file-whil.cs",
-          "title": "Transform an XLSX\u2011derived JSON dataset into a comma\u2011separated values (CSV) file while preserving column alignment."
+          "title": "Transform an XLSX\\u2011derived JSON dataset into a comma\\u2011separated values (CSV) file while preserving column alignment."
         },
         {
           "file": "transform-an-xltm-formatted-json-file-into-a-csv-document-preserving-all-data-fi.cs",
@@ -5527,7 +5515,7 @@
         },
         {
           "file": "transform-an-xltmformatted-json-file-into-an-excel-workbook-while-preserving-dat.cs",
-          "title": "Transform an XLTM\u2011formatted JSON file into an Excel workbook while preserving data fidelity and structure."
+          "title": "Transform an XLTM\\u2011formatted JSON file into an Excel workbook while preserving data fidelity and structure."
         },
         {
           "file": "transform-an-xltx-csv-document-into-json-format-using-the-provided-default-conve.cs",
@@ -5551,7 +5539,7 @@
         },
         {
           "file": "transform-an-xmlformatted-csv-file-into-an-equivalent-json-representation-preser.cs",
-          "title": "Transform an XML\u2011formatted CSV file into an equivalent JSON representation, preserving data types and hierarchical structure."
+          "title": "Transform an XML\\u2011formatted CSV file into an equivalent JSON representation, preserving data types and hierarchical structure."
         },
         {
           "file": "transform-an-xps-excel-file-into-a-json-representation-while-preserving-cell-dat.cs",
@@ -5567,7 +5555,7 @@
         },
         {
           "file": "transform-data-from-an-mhtformatted-csv-source-into-a-json-representation-while-.cs",
-          "title": "Transform data from an MHT\u2011formatted CSV source into a JSON representation while preserving field mappings."
+          "title": "Transform data from an MHT\\u2011formatted CSV source into a JSON representation while preserving field mappings."
         },
         {
           "file": "transform-data-from-an-sxc-csv-file-into-a-json-representation-preserving-all-fi.cs",
@@ -5639,8 +5627,8 @@
         "CsvToJsonConverter",
         "Path.Combine",
         "JsonDocument.Parse",
-        "Value.GetString",
         "Value.GetRawText",
+        "Value.GetString",
         "Cells.ImportCSV"
       ]
     },
@@ -5694,7 +5682,7 @@
         },
         {
           "file": "serialize-the-workbook-to-a-pdfacompliant-pdf-preserving-formatting-fonts-and-me.cs",
-          "title": "Serialize the workbook to a PDF/A\u2011compliant PDF, preserving formatting, fonts, and metadata according to PDF/A standards."
+          "title": "Serialize the workbook to a PDF/A\\u2011compliant PDF, preserving formatting, fonts, and metadata according to PDF/A standards."
         },
         {
           "file": "specify-the-pdf-creation-timestamp-while-converting-an-excel-workbook-to-a-pdf-f.cs",
@@ -5706,7 +5694,7 @@
         },
         {
           "file": "transform-an-excel-workbook-into-a-pdf-document-by-applying-the-standard-workboo.cs",
-          "title": "Transform an Excel workbook into a PDF document by applying the standard workbook\u2011to\u2011PDF conversion routine."
+          "title": "Transform an Excel workbook into a PDF document by applying the standard workbook\\u2011to\\u2011PDF conversion routine."
         }
       ],
       "required_namespaces": [
@@ -5727,8 +5715,8 @@
         "Worksheets.Add",
         "ExcelToPdfConverter.Run",
         "SubEntry.Add",
-        "File.Exists",
         "File.ReadAllBytes",
+        "File.Exists",
         "Pictures.Add",
         "PdfBookmarkScenarios",
         "PdfAExportDemo",
@@ -5742,7 +5730,7 @@
       "examples": [
         {
           "file": "analyze-the-supplied-sample-that-demonstrates-processing-of-an-xlsx-workbook-usi.cs",
-          "title": "Analyze the supplied sample that demonstrates processing of an XLSX workbook using the library\u2019s API."
+          "title": "Analyze the supplied sample that demonstrates processing of an XLSX workbook using the library\\u2019s API."
         },
         {
           "file": "apply-worksheet-protection-to-an-xlsx-file-to-prevent-unintended-row-and-column-.cs",
@@ -5813,15 +5801,15 @@
         "Console.WriteLine",
         "ListObjects.Add",
         "Worksheets.Add",
-        "Cells.InsertColumn",
+        "Cells.CreateRange",
         "Cells.ClearContents",
         "Cells.ExportDataTable",
-        "Cells.CreateRange",
         "Cells.Merge",
+        "Cells.InsertColumn",
         "Console.Write",
-        "IdentifyLinkedObjects.Run",
         "IdentifyLinkedObjects",
         "Name.Equals",
+        "IdentifyLinkedObjects.Run",
         "IdentifyExternalDataLinks",
         "TableManipulationExample"
       ]
@@ -6342,8 +6330,8 @@
         "File.Exists",
         "Worksheets.AddCopy",
         "HorizontalPageBreaks.RemoveAt",
-        "HorizontalPageBreaks.Add",
         "VerticalPageBreaks.Add",
+        "HorizontalPageBreaks.Add",
         "File.ReadAllBytes",
         "PageSetup.SetFitToPages",
         "Worksheets.RemoveAt",
@@ -6363,7 +6351,7 @@
         },
         {
           "file": "add-an-xml-map-to-the-opened-workbook-by-invoking-xmlmapcollectionadd-with-the-p.cs",
-          "title": "Add an XML map to the opened workbook by invoking\u202fXmlMapCollection.Add\u202fwith the provided schema file."
+          "title": "Add an XML map to the opened workbook by invoking\\u202fXmlMapCollection.Add\\u202fwith the provided schema file."
         },
         {
           "file": "after-loading-a-workbook-obtain-the-root-element-name-of-its-associated-xml-map.cs",
@@ -6501,18 +6489,18 @@
         "Program",
         "Console.WriteLine",
         "XmlMaps.Add",
-        "File.Delete",
         "File.WriteAllText",
+        "File.Delete",
         "File.Exists",
         "Path.GetTempFileName",
         "Cells.LinkToXmlMap",
         "Path.GetTempPath",
-        "Guid.NewGuid",
         "Path.Combine",
+        "Guid.NewGuid",
         "AddXmlMapDemo",
         "AddXmlMapExample",
-        "ExportLinkedXmlData.Run",
-        "ExportLinkedXmlData"
+        "ExportLinkedXmlData",
+        "ExportLinkedXmlData.Run"
       ]
     }
   ]
