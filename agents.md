@@ -14,8 +14,6 @@ All code must compile and run using:
 - dotnet build
 - dotnet run
 
----
-
 # Boundaries
 
 ## Always
@@ -39,8 +37,6 @@ All code must compile and run using:
 - Do not write incomplete or pseudo code
 - Do not rely on missing dependencies
 
----
-
 # Code Simplicity
 
 - One example = one feature
@@ -48,15 +44,11 @@ All code must compile and run using:
 - Avoid unnecessary abstractions or complexity
 - Prefer clarity over optimization
 
----
-
 # Input Strategy
 
 - Do NOT rely on external files
 - Always create data programmatically
 - Ensure every example runs independently
-
----
 
 # Output Rules
 
@@ -64,15 +56,11 @@ All code must compile and run using:
 - Use predictable names (output.xlsx, output.pdf, etc.)
 - Ensure file is successfully created
 
----
-
 # Determinism
 
 - Avoid randomness
 - Use fixed values
 - Ensure consistent output across runs
-
----
 
 # Error Handling
 
@@ -80,14 +68,10 @@ All code must compile and run using:
 - Keep examples simple and readable
 - Ensure no runtime crashes under normal execution
 
----
-
 # Console Output
 
 - Print a success message after execution
 - Indicate output file path when applicable
-
----
 
 # Common Mistakes
 
@@ -97,23 +81,17 @@ worksheet.Cells["A1"] = "Hello";
 ✅ Correct:
 worksheet.Cells["A1"].PutValue("Hello");
 
----
-
 ❌ Incorrect:
 var workbook = new Workbook();
 
 ✅ Correct:
 Workbook workbook = new Workbook();
 
----
-
 ❌ Incorrect:
 Workbook workbook = new Workbook("input.xlsx");
 
 ✅ Correct:
 Workbook workbook = new Workbook();
-
----
 
 # Domain Knowledge
 
@@ -122,8 +100,6 @@ Workbook workbook = new Workbook();
 - Use correct Aspose.Cells APIs for each operation
 - Follow category-specific rules from category agents.md files
 
----
-
 # Command Reference
 
 ## Build
@@ -131,8 +107,6 @@ dotnet build
 
 ## Run
 dotnet run
-
----
 
 # Testing Guide
 
