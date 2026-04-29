@@ -56,3 +56,17 @@ Examples may generate:
 Output files are written to the working directory.
 - convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs
 - convert-an-excel-workbook-to-xps-using-xlsx-as-the-input-and-xps-as-the-output.cs
+- transform-an-xlsx-workbook-into-a-pdf-document-preserving-formatting-layout-and-.cs
+- transform-an-xlsx-workbook-into-an-xps-document-preserving-data-fidelity-and-lay.cs
+- transform-an-xlsx-workbook-into-ods-sxc-and-fods-formats-while-preserving-data-i.cs
+- transform-an-xlsx-workbook-into-an-mhtml-file-while-preserving-all-data-and-form.cs
+- transform-an-xlsx-workbook-into-an-html-document-preserving-cell-formatting-and-.cs
+- transform-an-xlsx-workbook-into-a-json-file-preserving-worksheet-data-cell-types.cs
+- transform-a-workbook-in-xlsx-format-into-an-xml-file-using-the-librarys-conversi.cs
+- transform-an-xlsx-workbook-into-a-docx-document-preserving-cell-data-and-formatt.cs
+- transform-an-xlsx-workbook-into-a-pptx-presentation-generating-a-powerpoint-file.cs
+- transform-an-xlsx-workbook-into-an-ods-file-ensuring-data-fidelity-and-format-co.cs
+- transform-an-xlsx-workbook-into-csv-tsv-and-txt-files-generating-each-output-for.cs
+- transform-an-xlsx-workbook-into-a-csv-file-removing-any-leading-empty-rows-and-c.cs
+- convert-an-xlsx-workbook-to-csv-format-preserving-delimiter-placeholders-for-emp.cs
+- convert-an-xlsx-workbook-to-a-tiff-image-file-preserving-visual-fidelity-and-lay.cs
