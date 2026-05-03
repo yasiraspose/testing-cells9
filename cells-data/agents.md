@@ -55,3 +55,6 @@ Examples may generate:
 
 Output files are written to the working directory.
 - apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs
+- import-data-from-a-gridview-control-into-an-xlsx-workbook-preserving-cell-formatting-and-structure.cs
+- identify-appropriate-scenarios-for-applying-enumerators-when-processing-xlsx-files-during-data-extraction-and-manipulation-in-net-applications.cs
+- implement-an-enumerator-to-iterate-over-rows-in-an-xlsx-worksheet-efficiently-supporting-lazy-loading-and-memory-optimization.cs
