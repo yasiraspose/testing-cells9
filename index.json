@@ -5,6 +5,11 @@
   "framework": ".NET",
   "examples": [
     {
+      "category": "cells-data",
+      "file": "apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs",
+      "title": "Apply an auto\u2011filter to data in an XLSX workbook to enable dynamic row and column filtering."
+    },
+    {
       "category": "conversion",
       "file": "convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs",
       "title": "Convert an Excel workbook to PDF using XLSX as the input and PDF as the output."
