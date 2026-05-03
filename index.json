@@ -10,6 +10,11 @@
       "title": "Apply an auto\u2011filter to data in an XLSX workbook to enable dynamic row and column filtering."
     },
     {
+      "category": "cells-data",
+      "file": "import-data-from-a-gridview-control-into-an-xlsx-workbook-preserving-cell-formatting-and-structure.cs",
+      "title": "Import data from a GridView control into an XLSX workbook, preserving cell formatting and structure."
+    },
+    {
       "category": "conversion",
       "file": "convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs",
       "title": "Convert an Excel workbook to PDF using XLSX as the input and PDF as the output."

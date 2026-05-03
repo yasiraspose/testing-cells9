@@ -55,3 +55,4 @@ Examples may generate:
 
 Output files are written to the working directory.
 - apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs
+- import-data-from-a-gridview-control-into-an-xlsx-workbook-preserving-cell-formatting-and-structure.cs
