@@ -11,6 +11,11 @@
     },
     {
       "category": "cells-data",
+      "file": "identify-appropriate-scenarios-for-applying-enumerators-when-processing-xlsx-files-during-data-extraction-and-manipulation-in-net-applications.cs",
+      "title": "Identify appropriate scenarios for applying enumerators when processing XLSX files during data extraction and manipulation in .NET applications."
+    },
+    {
+      "category": "cells-data",
       "file": "import-data-from-a-gridview-control-into-an-xlsx-workbook-preserving-cell-formatting-and-structure.cs",
       "title": "Import data from a GridView control into an XLSX workbook, preserving cell formatting and structure."
     },
