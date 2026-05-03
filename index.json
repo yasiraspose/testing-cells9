@@ -30,6 +30,11 @@
       "title": "Insert a threaded comment into an XLSX workbook loaded in memory using the .NET spreadsheet library."
     },
     {
+      "category": "comments-and-notes",
+      "file": "programmatically-retrieve-the-creation-timestamp-metadata-of-each-threaded-comment-within-an-xlsx-workbook.cs",
+      "title": "Programmatically retrieve the creation timestamp metadata of each threaded comment within an XLSX workbook."
+    },
+    {
       "category": "conversion",
       "file": "convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs",
       "title": "Convert an Excel workbook to PDF using XLSX as the input and PDF as the output."
